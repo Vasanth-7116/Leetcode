@@ -72,13 +72,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Vasanth-7116/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Vasanth-7116/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/Vasanth-7116/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Vasanth-7116/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vasanth-7116/Leetcode/tree/master/0844-backspace-string-compare) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vasanth-7116/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
