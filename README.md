@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vasanth-7116/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Vasanth-7116/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Vasanth-7116/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vasanth-7116/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
