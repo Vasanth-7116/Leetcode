@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vasanth-7116/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vasanth-7116/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vasanth-7116/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
