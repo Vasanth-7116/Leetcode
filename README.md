@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vasanth-7116/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Vasanth-7116/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vasanth-7116/Leetcode/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Vasanth-7116/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vasanth-7116/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vasanth-7116/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasanth-7116/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanth-7116/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Vasanth-7116/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
