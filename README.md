@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vasanth-7116/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Vasanth-7116/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Vasanth-7116/Leetcode/tree/master/0917-reverse-only-letters) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vasanth-7116/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vasanth-7116/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
