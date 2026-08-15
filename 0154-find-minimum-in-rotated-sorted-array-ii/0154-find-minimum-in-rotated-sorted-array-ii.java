@@ -9,7 +9,7 @@ class Solution {
             if(arr[mid]>arr[e]){
                 s = mid+1;
             }
-            else if(arr[mid]<arr[e]){
+            else if(arr[mid]>arr[s]){
                 e = mid;
             }
             else{
