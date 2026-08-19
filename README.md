@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vasanth-7116/Leetcode/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Vasanth-7116/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0511-game-play-analysis-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Vasanth-7116/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 ## Matrix
 |  |
