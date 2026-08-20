@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Vasanth-7116/Leetcode/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
