@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
+| [0482-license-key-formatting](https://github.com/Vasanth-7116/Leetcode/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
 | [0819-most-common-word](https://github.com/Vasanth-7116/Leetcode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Vasanth-7116/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
