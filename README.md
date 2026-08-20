@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasanth-7116/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
+| [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Vasanth-7116/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Vasanth-7116/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vasanth-7116/Leetcode/tree/master/0844-backspace-string-compare) |
