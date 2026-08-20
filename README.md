@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Vasanth-7116/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Vasanth-7116/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Vasanth-7116/Leetcode/tree/master/0739-daily-temperatures) |
+| [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 | [0875-koko-eating-bananas](https://github.com/Vasanth-7116/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vasanth-7116/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth-7116/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -215,4 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
