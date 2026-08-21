@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0190-reverse-bits](https://github.com/Vasanth-7116/Leetcode/tree/master/0190-reverse-bits) |
 | [0461-hamming-distance](https://github.com/Vasanth-7116/Leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Vasanth-7116/Leetcode/tree/master/0476-number-complement) |
 ## Trie
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Vasanth-7116/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
