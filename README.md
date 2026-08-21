@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vasanth-7116/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vasanth-7116/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0997-find-the-town-judge](https://github.com/Vasanth-7116/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vasanth-7116/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Vasanth-7116/Leetcode/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/Vasanth-7116/Leetcode/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0997-find-the-town-judge](https://github.com/Vasanth-7116/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vasanth-7116/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vasanth-7116/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0997-find-the-town-judge](https://github.com/Vasanth-7116/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
