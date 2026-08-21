@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Vasanth-7116/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Vasanth-7116/Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vasanth-7116/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Vasanth-7116/Leetcode/tree/master/0933-number-of-recent-calls) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Memoization
 |  |
 | ------- |
