@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Vasanth-7116/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/Vasanth-7116/Leetcode/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/Vasanth-7116/Leetcode/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanth-7116/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Vasanth-7116/Leetcode/tree/master/0735-asteroid-collision) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/Vasanth-7116/Leetcode/tree/master/0575-distribute-candies) |
 | [0819-most-common-word](https://github.com/Vasanth-7116/Leetcode/tree/master/0819-most-common-word) |
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Vasanth-7116/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
