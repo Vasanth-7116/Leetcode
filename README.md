@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Vasanth-7116/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vasanth-7116/Leetcode/tree/master/0221-maximal-square) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0567-permutation-in-string) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Vasanth-7116/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0507-perfect-number) |
 | [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vasanth-7116/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vasanth-7116/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Vasanth-7116/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -422,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
