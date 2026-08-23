@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Vasanth-7116/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Vasanth-7116/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Vasanth-7116/Leetcode/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vasanth-7116/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Vasanth-7116/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0087-scramble-string) |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vasanth-7116/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vasanth-7116/Leetcode/tree/master/0198-house-robber) |
