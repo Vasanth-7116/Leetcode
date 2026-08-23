@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth-7116/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vasanth-7116/Leetcode/tree/master/0204-count-primes) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vasanth-7116/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0087-scramble-string) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Vasanth-7116/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vasanth-7116/Leetcode/tree/master/0198-house-robber) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0450-delete-node-in-a-bst](https://github.com/Vasanth-7116/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
