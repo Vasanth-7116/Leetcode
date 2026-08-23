@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0507-perfect-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0507-perfect-number) |
+| [0780-reaching-points](https://github.com/Vasanth-7116/Leetcode/tree/master/0780-reaching-points) |
 | [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -432,4 +433,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Vasanth-7116/Leetcode/tree/master/0780-reaching-points) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0780-reaching-points](https://github.com/Vasanth-7116/Leetcode/tree/master/0780-reaching-points) |
 <!---LeetCode Topics End-->
