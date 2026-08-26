@@ -16,39 +16,40 @@
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> result = new ArrayList<>();
-        if (root == null) {
+        if(root==null){
             return result;
         }
-        
-        Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
-        boolean leftToRight = true;
-        
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            LinkedList<Integer> currentLevel = new LinkedList<>();
-            
-            for (int i = 0; i < size; i++) {
-                TreeNode currentNode = queue.poll();
-                
-                if (leftToRight) {
-                    currentLevel.addLast(currentNode.val);
-                } else {
-                    currentLevel.addFirst(currentNode.val);
+        Deque<TreeNode> queue = new ArrayDeque<>();
+        queue.add(root);
+        boolean rev = false;
+        while(!queue.isEmpty()){
+            int level = queue.size();
+            List<Integer> list = new ArrayList<>();
+            for(int i=0;i<level;i++){
+                if(!rev){
+                    TreeNode curr = queue.removeFirst();
+                    list.add(curr.val);
+                    if(curr.left!=null){
+                        queue.addLast(curr.left);
+                    }
+                    if(curr.right!=null){
+                        queue.addLast(curr.right);
+                    }
                 }
-                
-                if (currentNode.left != null) {
-                    queue.offer(currentNode.left);
-                }
-                if (currentNode.right != null) {
-                    queue.offer(currentNode.right);
+                if(rev){
+                    TreeNode curr = queue.removeLast();
+                    list.add(curr.val);
+                    if(curr.right!=null){
+                        queue.addFirst(curr.right);
+                    }
+                    if(curr.left!=null){
+                        queue.addFirst(curr.left);
+                    }
                 }
             }
-            
-            result.add(currentLevel);
-            leftToRight = !leftToRight;
+            result.add(list);
+            rev = !rev;
         }
-        
         return result;
     }
 }
