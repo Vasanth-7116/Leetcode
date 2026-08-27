@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Vasanth-7116/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0135-candy](https://github.com/Vasanth-7116/Leetcode/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth-7116/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Vasanth-7116/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Vasanth-7116/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
