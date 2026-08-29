@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/Vasanth-7116/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vasanth-7116/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vasanth-7116/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vasanth-7116/Leetcode/tree/master/0200-number-of-islands) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
 |  |
 | ------- |
