@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Vasanth-7116/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasanth-7116/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vasanth-7116/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Vasanth-7116/Leetcode/tree/master/0200-number-of-islands) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Vasanth-7116/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Vasanth-7116/Leetcode/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Vasanth-7116/Leetcode/tree/master/0139-word-break) |
+| [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Vasanth-7116/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vasanth-7116/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0015-3sum) |
 | [0147-insertion-sort-list](https://github.com/Vasanth-7116/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Vasanth-7116/Leetcode/tree/master/0164-maximum-gap) |
+| [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vasanth-7116/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Vasanth-7116/Leetcode/tree/master/0135-candy) |
+| [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vasanth-7116/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
