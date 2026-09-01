@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Vasanth-7116/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Vasanth-7116/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/Vasanth-7116/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Vasanth-7116/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0223-rectangle-area) |
