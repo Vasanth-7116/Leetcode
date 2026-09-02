@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vasanth-7116/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Vasanth-7116/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vasanth-7116/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Vasanth-7116/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vasanth-7116/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vasanth-7116/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vasanth-7116/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vasanth-7116/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vasanth-7116/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Vasanth-7116/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Vasanth-7116/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Vasanth-7116/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vasanth-7116/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
