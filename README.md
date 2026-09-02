@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Vasanth-7116/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vasanth-7116/Leetcode/tree/master/0221-maximal-square) |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vasanth-7116/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Vasanth-7116/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Vasanth-7116/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Vasanth-7116/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Vasanth-7116/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Vasanth-7116/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -572,4 +575,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Vasanth-7116/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
