@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Vasanth-7116/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/Vasanth-7116/Leetcode/tree/master/0221-maximal-square) |
 | [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+| [0330-patching-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0330-patching-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Vasanth-7116/Leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
+| [0330-patching-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0330-patching-array) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vasanth-7116/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
