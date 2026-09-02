@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Vasanth-7116/Leetcode/tree/master/0221-maximal-square) |
 | [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/Vasanth-7116/Leetcode/tree/master/0330-patching-array) |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vasanth-7116/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/Vasanth-7116/Leetcode/tree/master/0495-teemo-attacking) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vasanth-7116/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0402-remove-k-digits](https://github.com/Vasanth-7116/Leetcode/tree/master/0402-remove-k-digits) |
 | [0482-license-key-formatting](https://github.com/Vasanth-7116/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Vasanth-7116/Leetcode/tree/master/0500-keyboard-row) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Vasanth-7116/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/Vasanth-7116/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0179-largest-number) |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0414-third-maximum-number](https://github.com/Vasanth-7116/Leetcode/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Vasanth-7116/Leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Vasanth-7116/Leetcode/tree/master/0561-array-partition) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0506-relative-ranks](https://github.com/Vasanth-7116/Leetcode/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Vasanth-7116/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -384,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vasanth-7116/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Vasanth-7116/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vasanth-7116/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Vasanth-7116/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -527,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vasanth-7116/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Vasanth-7116/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0997-find-the-town-judge](https://github.com/Vasanth-7116/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
@@ -602,4 +608,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Vasanth-7116/Leetcode/tree/master/0327-count-of-range-sum) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Vasanth-7116/Leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
