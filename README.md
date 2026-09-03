@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vasanth-7116/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vasanth-7116/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3697-compute-decimal-representation](https://github.com/Vasanth-7116/Leetcode/tree/master/3697-compute-decimal-representation) |
 | [3731-find-missing-elements](https://github.com/Vasanth-7116/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/Vasanth-7116/Leetcode/tree/master/0780-reaching-points) |
 | [0812-largest-triangle-area](https://github.com/Vasanth-7116/Leetcode/tree/master/0812-largest-triangle-area) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vasanth-7116/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3697-compute-decimal-representation](https://github.com/Vasanth-7116/Leetcode/tree/master/3697-compute-decimal-representation) |
 ## Greedy
 |  |
 | ------- |
