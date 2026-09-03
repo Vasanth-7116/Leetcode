@@ -1,18 +1,17 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int result =0;
-        int countSB = 0;
-        for(int b=0;b<=31;b++){
-            countSB =0;
+        int ans = 0;
+        for(int i=0;i<32;i++){
+            int count = 0;
             for(int n:nums){
-                if ((n & (1 << b)) != 0) {
-                    countSB++;
+                if((n&(1<<i))!=0){
+                    count++;
                 }
             }
-            if(countSB % 3!=0){
-                result = result | (1<<b);
+            if(count%3!=0){
+                ans|=1<<i;
             }
         }
-        return result;
+        return ans;
     }
 }
